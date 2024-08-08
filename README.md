@@ -1,6 +1,6 @@
 # **5 Classses Text Classification on Movies Reviews 67% LSTM**
 
-#picture
+![17](https://github.com/user-attachments/assets/54b3e8bc-36c8-4cb8-9ec4-82e054fe115c)
 
 1. Download and Imports
 2. Functions
